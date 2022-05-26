@@ -1,0 +1,15 @@
+.fuente {
+    font-family: 'Patrick Hand', cursive;
+}
+
+div.columna1, div.columna2 {
+    border: 1.5px solid grey;
+}
+
+div.columna1 {
+    background-color: lightseagreen;
+}
+
+div.columna2 { 
+    background-color: lightblue;
+}
