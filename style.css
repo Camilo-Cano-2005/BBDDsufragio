@@ -2,7 +2,7 @@
     font-family: 'Patrick Hand', cursive;
 }
 
-div.columna1, div.columna2 {
+div.columna {
     border: 1.5px solid grey;
 }
 
@@ -12,4 +12,25 @@ div.columna1 {
 
 div.columna2 { 
     background-color: lightblue;
+}
+
+div.columna3 {
+    background-color: lightsalmon;
+}
+
+div.columna4 {
+    background-color: lightcoral;
+}
+
+li.nav-item a {
+    transition: all ease-out 0.3ms;
+}
+
+li.nav-item a:hover {
+    color: crimson !important;
+    transition: all ease-out 0.3ms;
+}
+
+p.textico {
+    font-size: 1.3em;
 }
